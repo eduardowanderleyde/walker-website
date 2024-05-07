@@ -1,0 +1,7 @@
+main:
+  - title: "about"
+    url: /about/
+  - title: "research"
+    url: /research/
+  - title: "CV"
+    url: "/assets/files/cv-eduardo-07-05.pdf"
