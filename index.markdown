@@ -6,7 +6,16 @@ layout: default
 title: Homepage
 ---
 
-This is my homepage
+My Profile
+
+Im from Recife, Pernambuco, Brazil
+Mecatronics Engineer - UPE
+Robotics and IA postgraduate at CIn - UFPE
+Masters student in Computer Science at CIn - UFPE
+
+![Profile](/assets/imgs/profile.jpeg)
+
+My Projects
 
 Im a Ruby on Rails developer and I love to write about it. I also love to write about other things like technology, music, and more. I hope you enjoy my blog.
 
@@ -16,3 +25,7 @@ My lattes is [here](http://lattes.cnpq.br/4068383542057315)
 
 i love animal thats is my website for them
 ![Dog website](/assets/imgs/front-page-dog.png)
+
+I make an instagram clone in Ruby on Rails
+
+![Instagram website](assets/imgs/clone-insta.jpeg)
