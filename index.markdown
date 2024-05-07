@@ -8,7 +8,12 @@ title: Homepage
 
 My Profile
 
-Im from Recife, Pernambuco, Brazil
+Im a comunicative person, friendly and adaptable
+Lived 3 months in Germany
+1 month in London
+3 months in Vancouver
+able to move to different cities and countries!
+From Recife, Pernambuco, Brazil
 Mecatronics Engineer - UPE
 Robotics and IA postgraduate at CIn - UFPE
 Masters student in Computer Science at CIn - UFPE
