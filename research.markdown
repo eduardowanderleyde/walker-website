@@ -6,3 +6,5 @@ permalink: /research/
 I make an Reaserh on Detection and manipulation of collection tubes
 
 ![research](/assets/imgs/detection.jpeg)
+
+![tubes](/assets/imgs/tubes.jpeg)

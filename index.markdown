@@ -6,31 +6,32 @@ layout: default
 title: Homepage
 ---
 
-My Profile
+## This is my website
 
-Im a comunicative person, friendly and adaptable
-Lived 3 months in Germany
-1 month in London
-3 months in Vancouver
-able to move to different cities and countries!
-From Recife, Pernambuco, Brazil
-Mecatronics Engineer - UPE
-Robotics and IA postgraduate at CIn - UFPE
-Masters student in Computer Science at CIn - UFPE
+## My Profile
 
-![Profile](/assets/imgs/profile.jpeg)
+I'm passionate about technology, particularly in the realm of Ruby on Rails development. Alongside coding, I enjoy writing about various topics such as technology, music, and more. Welcome to my blog, where I share my thoughts and experiences.
 
-My Projects
+## About
 
-Im a Ruby on Rails developer and I love to write about it. I also love to write about other things like technology, music, and more. I hope you enjoy my blog.
+I'm a communicative person, friendly, and adaptable. Having lived in different cities and countries like Leipzig - DE, London - UK, and Vancouver - CN, I'm accustomed to diverse environments. Originally from Recife, Pernambuco, Brazil, I hold a degree in Mechatronics Engineering from UPE and am currently pursuing postgraduate studies in Robotics and Artificial Intelligence at CIn - UFPE. Additionally, I'm a Masters student in Computer Science at CIn - UFPE.
 
-this is [my research with robotics](/research/)
+## My Projects
 
-My lattes is [here](http://lattes.cnpq.br/4068383542057315)
-
-i love animal thats is my website for them
-![Dog website](/assets/imgs/front-page-dog.png)
-
-I make an instagram clone in Ruby on Rails
+- **Ruby on Rails Blog**: Explore my writings on Ruby on Rails development and other topics.[project](/projects/)
+- **Instagram Clone**: Check out my project where I built an Instagram clone using Ruby on Rails.[project](/projects/)
+- **Robotics Research**: Discover my ongoing [research with robotics](/research/)
+- **Dog Website**: Check out my project where I built an Dog Social Media.[project](/projects/)
 
 ![Instagram website](assets/imgs/clone-insta.jpeg)
+
+## Contact
+
+![Profile](/assets/imgs/robot_me.jpeg)
+
+Feel free to reach out to me at <wanderley.eduardo@gmail.com>.
+
+## External Links
+
+- My lattes is [here](http://lattes.cnpq.br/4068383542057315): View my academic profile.
+- [GitHub](https://github.com/eduardowanderleyde): Follow my projects on GitHub.
