@@ -1,6 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
 title: Projects
@@ -19,3 +17,7 @@ permalink: /projects/
 ## Car Api with Modern Next.js 13 Application - Car Showcase
 
 ![Carwebsite](/assets/imgs/car.jpeg)
+
+## Fantastic Beasts
+
+![Beasts](/assets/imgs/fantastic-beasts.png)
