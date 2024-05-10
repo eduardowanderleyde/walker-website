@@ -21,3 +21,11 @@ permalink: /projects/
 ## Fantastic Beasts
 
 ![Beasts](/assets/imgs/fantastic-beasts.png)
+
+## Blogs on Ruby on Rails
+
+![Blogs](/assets/imgs/blogs.png)
+
+## Ping Pong Js
+
+![Blogs](/assets/imgs/ping.png)
