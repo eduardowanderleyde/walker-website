@@ -1,6 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
 title: Homepage
@@ -22,8 +20,11 @@ I'm a communicative person, friendly, and adaptable. Having lived in different c
 - **Instagram Clone**: Check out my project where I built an Instagram clone using Ruby on Rails.[project](/projects/)
 - **Robotics Research**: Discover my ongoing [research with robotics](/research/)
 - **Dog Website**: Check out my project where I built an Dog Social Media.[project](/projects/)
-
-![Instagram website](assets/imgs/clone-insta.jpeg)
+- **Car Showcase**: Check out my project where I built an Car Api with Modern Next.js 13 Application - Car Showcase.[project](/projects/)
+- **Fantastic Beasts**: Check out my project where I built an Fantastic Beasts.[project](/projects/)
+- **Blogs on Ruby on Rails**: Check out my project where I built an Blogs on Ruby on Rails.[project](/projects/)
+- **Ping Pong Js**: Check out my project where I built an Ping Pong Js.[project](/projects/)
+- **Robotics Research**: Discover my ongoing [research with robotics](/research/)
 
 ## Contact
 

@@ -5,7 +5,6 @@ title: Projects
 permalink: /projects/
 ---
 
-
 ## Instagram Clone using Ruby on Rails
 
 ![Instagram back](/assets/imgs/back.jpeg)
