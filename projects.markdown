@@ -9,22 +9,14 @@ permalink: /projects/
 
 ![Oficina](/assets/imgs/oficina.png)
 
-## Dog Social Media
+## Comissão do CRP-PE
 
-![Dog website](/assets/imgs/front-page-dog.png)
+![Comissao](/assets/imgs/comissao.png)
 
-## Car Api with Modern Next.js 13 Application - Car Showcase
+## Professor da Uninassau
 
-![Carwebsite](/assets/imgs/car.jpeg)
+![Prof](/assets/imgs/prof.png)
 
-## Fantastic Beasts
+## Violência na adolescência
 
-![Beasts](/assets/imgs/fantastic-beasts.png)
-
-## Blogs on Ruby on Rails
-
-![Blogs](/assets/imgs/blogs.png)
-
-## Ping Pong Js
-
-![Blogs](/assets/imgs/ping.png)
+![Violencia](/assets/imgs/violencia.png)
