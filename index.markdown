@@ -29,9 +29,7 @@ Sou uma pessoa comunicativa, amigável e adaptável. Tendo vivido em diferentes 
 
 ## Contato
 
-![Profile](/assets/imgs/robot_me.jpeg)
-
-Sinta-se à vontade para entrar em contato comigo pelo email <wanderley.eduardo@gmail.com>.
+Sinta-se à vontade para entrar em contato comigo pelo email <walkerlima@gmail.com>.
 
 ## Links Externos
 
