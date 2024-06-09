@@ -1,22 +1,50 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
-[Download my Resume](/assets/files/cv-eduardo-07-05.pdf)
 
-Hello, I am Eduardo Wanderley, a 31-year-old professional with a degree in Mechatronics Engineering. Currently, I am pursuing a Master's degree in Software Engineering at UFPE. In 2023, I completed my postgraduate studies, also at UFPE, in Applied Artificial Intelligence and Robotics for Software Testing, reflecting my passion for cutting-edge technologies.
+## Quem sou eu?
 
-Since a young age, I have had a passion for technology, innovation, and learning. Throughout my academic career, I delved into frontend development, primarily using HTML, CSS, JavaScript, and Tkinter.
+- **Walker Lima Filho - CRP/02 - 19.118**
+- Psicólogo com atuação clínica e acadêmica desde 2015.
+- Mestre em Psicologia pela Universidade Federal de Pernambuco (UFPE).
+- Psicoterapeuta com atendimento a adolescentes, crianças e adultos.
+- Atendimento presencial no Recife e online.
 
-At present, my main focus is on web development and mobile app creation, utilizing technologies such as Python, Typescript, React, Redux, GraphQL, Flutter, and Swift, as I believe these platforms pave the way for innovative user experiences.
+@profwalkerlimaf
 
-One of the most significant projects I worked on in the frontend domain was creating software that controlled a robotic arm in Flutter, allowing users to manipulate the arm for sorting medications. This provided an intuitive and efficient experience in planning the daily activities of a hospital.
+---
 
-Beyond frontend development, I immersed myself in the realm of educational robotics, actively participating in robotics projects in public schools. This experience fueled my interest in the potential of technology to revolutionize education.
+![Walker e Carolina](/assets/imgs/psicologos.png)
 
-Currently, I am focused on exploring new technologies and frameworks for frontend development, seeking to enhance my technical and interpersonal skills, while concurrently pursuing a Master's degree in Software Engineering.
+---
 
-In addition to my professional endeavors, I am a music enthusiast. I have been playing the guitar since I was 12 and am a devoted fan of The Beatles, David Bowie, and David Gilmour. My musical journey includes involvement in approximately 5 bands.Hello, I am Eduardo Wanderley, a 31-year-old professional with a degree in Mechatronics Engineering. Currently, I am pursuing a Master's degree in Software Engineering at UFPE. In 2023, I completed my postgraduate studies, also at UFPE, in Applied Artificial Intelligence and Robotics for Software Testing, reflecting my passion for cutting-edge technologies. Since a young age, I have had a passion for technology, innovation, and learning. Throughout my academic career, I delved into frontend development, primarily using HTML, CSS, JavaScript, and Tkinter. At present, my main focus is on web development and mobile app creation, utilizing technologies such as Python, Typescript, React, Redux, GraphQL, Flutter, and Swift, as I believe these platforms pave the way for innovative user experiences. One of the most significant projects I worked on in the frontend domain was creating software that controlled a robotic arm in Flutter, allowing users to manipulate the arm for sorting medications. This provided an intuitive and efficient experience in planning the daily activities of a hospital. Beyond frontend development, I immersed myself in the realm of educational robotics, actively participating in robotics projects in public schools. This experience fueled my interest in the potential of technology to revolutionize education.
+![Clínica de Psicologia](/assets/imgs/clinica.png)
 
-Currently, I am focused on exploring new technologies and frameworks for frontend development, seeking to enhance my technical and interpersonal skills, while concurrently pursuing a Master's degree in Software Engineering. In addition to my professional endeavors, I am a music enthusiast. I have been playing the guitar since I was 12 and am a devoted fan of The Beatles, David Bowie, and David Gilmour. My musical journey includes involvement in approximately 5 bands.
+## Sobre a Clínica
+
+Nossa clínica de psicologia oferece atendimento especializado para todas as idades, com foco em proporcionar um ambiente acolhedor e seguro para nossos pacientes. Trabalhamos com uma abordagem integrativa, combinando diferentes técnicas e metodologias para atender às necessidades individuais de cada paciente.
+
+### Nossos Psicólogos
+
+**Carolina Dias - CRP: 02/20015**
+
+- Psicóloga clínica especializada em terapia cognitivo-comportamental.
+- Experiência em atendimento a adultos, adolescentes e crianças.
+- Foco em tratamento de ansiedade, depressão, transtornos de humor e dificuldades de relacionamento.
+
+**Walker Lima Filho - CRP: 02/19118**
+
+- Psicólogo clínico com experiência em terapia sistêmica.
+- Atuação com adolescentes, adultos e casais.
+- Especialização em psicologia educacional e organizacional.
+
+---
+
+## Contato
+
+- **Telefone:** +55 81 98712-0107
+- **Instagram:** [@profwalkerlimaf](https://instagram.com/profwalkerlimaf)
+
+Venha conhecer nossos serviços e agendar uma consulta. Estamos à disposição para ajudá-lo a encontrar o equilíbrio e bem-estar que você merece.
