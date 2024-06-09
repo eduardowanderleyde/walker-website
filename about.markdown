@@ -14,12 +14,6 @@ permalink: /sobre/
 
 @profwalkerlimaf
 
----
-
-![Walker e Carolina](/assets/imgs/psicologos.png)
-
----
-
 ![Clínica de Psicologia](/assets/imgs/clinica.png)
 
 ## Sobre a Clínica

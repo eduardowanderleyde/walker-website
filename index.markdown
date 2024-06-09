@@ -6,6 +6,12 @@ title: Homepage
 
 ## Bem-vindo ao meu site
 
+---
+
+![Walker e Carolina](/assets/imgs/psicologos.png)
+
+---
+
 ## Meu Perfil
 
 Sou apaixonado por psicologia, com um foco especial em atendimentos clínicos e acadêmicos. Além de oferecer terapia para adolescentes, crianças e adultos, compartilho minhas experiências e conhecimentos sobre psicologia e bem-estar mental. Bem-vindo ao meu blog, onde divido minhas reflexões e experiências.
