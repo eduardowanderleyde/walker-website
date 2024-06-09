@@ -35,3 +35,9 @@ Sinta-se à vontade para entrar em contato comigo pelo email <walkerlima@gmail.c
 
 - Meu currículo Lattes está [aqui](http://lattes.cnpq.br/4068383542057315): Veja meu perfil acadêmico.
 - [Instagram](https://instagram.com/profwalkerlimaf): Siga-me no Instagram para mais atualizações.
+
+## Vídeo
+
+<div style="position:relative;padding-top:56.25%;">
+<iframe src="https://www.youtube.com/embed/OCC6WuQx1jo" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen></iframe>
+</div>
