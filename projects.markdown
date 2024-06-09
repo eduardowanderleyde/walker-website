@@ -5,9 +5,9 @@ title: Projects
 permalink: /projects/
 ---
 
-## Instagram Clone using Ruby on Rails
+## Oficina
 
-![Instagram back](/assets/imgs/back.jpeg)
+![Oficina](/Users/Wander/Documents/Desenvolvimento/walker-website/assets/imgs/oficina.png)
 
 ## Dog Social Media
 
