@@ -7,7 +7,7 @@ permalink: /projects/
 
 ## Oficina
 
-![Oficina](/Users/Wander/Documents/Desenvolvimento/walker-website/assets/imgs/oficina.png)
+![Oficina](/assets/imgs/oficina.png)
 
 ## Dog Social Media
 
